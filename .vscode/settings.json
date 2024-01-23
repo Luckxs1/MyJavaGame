@@ -1,0 +1,8 @@
+{
+    "java.project.explorer.showNonJavaResources": true,
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.sourcePaths": [
+        "res",
+        "src"
+    ]
+}
